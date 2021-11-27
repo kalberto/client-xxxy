@@ -1,0 +1,15 @@
+composer.phar
+/vendor/
+.idea/
+/logs/errors/*
+/videos/users/*
+/resultados/*
+
+# Large media files
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+images/generated/
+images/users/
